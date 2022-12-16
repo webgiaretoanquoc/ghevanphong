@@ -1,0 +1,337 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+li.html input{    border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	height: 34px;
+	border: 1px solid #03a9f4;}.product-summary .quantity {
+		margin-bottom: 0;
+}span.widget-title {
+	letter-spacing: 0;
+	font-size: 19px;
+	color: #21428a;
+	font-weight: 700;
+}.widget .is-divider{display:none}
+.sidebar-icon-box h4{color:#03a9f4}
+.block_widget span.widget-title{display:block; margin-bottom:20px}
+.single-product .product-footer .container{    background: white;
+	padding: 15px; margin-bottom:20px
+}
+.block_widget{margin-top:10px}
+.sidebar-icon-box .icon-box-text {font-size:14px}
+.sidebar-icon-box{padding-bottom:14px}
+.single_add_to_cart_button{    margin-bottom: 0;
+	border-radius: 5px;}
+.single-product .cart{margin-bottom:0; margin-top:15px}
+.single-product #product-sidebar{padding-left:15px; padding-bottom:0}
+.product-info .price ins span{color: red; font-size:20px}
+.single-product .product-info .price, .single-product .product-info .price del span {color:gray; font-size:15px}
+.product-main .badge-container{display:none}
+.single-product .product-info {padding-bottom:0;
+	padding-top: 0;
+	padding-left: 0;
+	padding-right: 15px;}
+.woocommerce-tabs .tabs li a{letter-spacing:0; text-transform: none;
+	font-size: 22px;
+	color: #21428a;
+}.product-section {
+	border-top: 0;
+}.success-color {
+	color: #ffffff;
+	background: #8BC34A;
+	border-radius: 4px;
+	padding: 8px 10px;
+	font-size: 15px;
+}
+.category-page-row {
+	padding-top: 20px;
+}
+.category-page-row .col{padding:0 11px 24px}
+.chosen-container-single .chosen-single{background:white; border-radius:4px; box-shadow:none !important}.chosen-container-single .chosen-single {
+	height: 33px !important;
+	line-height: 28px !important;
+}
+.bai-viet-lien-quan ul li .box-image img{height:160px; object-fit:cover; object-position:center;border-radius: 4px;}
+.blog-archive .post-item .box-image .image-cover{border-radius:4px}
+.blog-archive .large-12 .badge{display:none}
+.blog-archive #breadcrumbs{padding-top:10px}
+.blog-archive .large-12{padding-bottom: 0;}
+.blog-archive {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.woocommerce-cart .large-12{padding-bottom:0}
+.woocommerce-cart .woocommerce .col{padding:0 15px 0 !important}
+table{margin-bottom:0}
+a.button-continue-shopping{    text-transform: none !important;
+	letter-spacing: 0 !important;
+	font-size: 15px !important;
+	background: #e6e6e6 !important;border-radius:4px ;}
+.cart-collaterals{border-left:none !important}
+.button.pull-left{background: #03a9f4 !important;
+	color: white;
+	border-radius: 4px;
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 15px;}
+input[type='email'], input[type='date'], input[type='search'], input[type='number'], input[type='text'], input[type='tel'], input[type='url'], input[type='password'], textarea, select, .select-resize-ghost, .select2-container .select2-choice, .select2-container .select2-selection{border-radius:4px; box-shadow:none !important; font-size:14px}
+.woocommerce-checkout .large-5 .col-inner{background: white;
+	border-radius: 5px;
+	box-shadow: 2px 2px 20px #00000040;}
+.methods{margin-bottom:0}
+.woocommerce-input-wrapper input{margin-bottom:0}.has-border {
+	border: 2px solid #03a9f4;
+	padding: 0px 20px 15px;
+}
+#payment .form-row #place_order{border-radius:5px; text-transform:none; letter-spacing:0; font-size:15px}
+form.checkout h3{color:#21428a}
+.woocommerce-billing-fields {
+	padding-top: 0;}
+.woocommerce-billing-fields__field-wrapper{background:white; padding:20px;border-radius:4px; border: 1px solid #dadada}
+.wc-proceed-to-checkout a{border-radius:4px; text-transform:none; letter-spacing:0; font-size:15px}
+.woocommerce-cart-form, .woocommerce-cart .cart-sidebar{background: white;
+	padding: 20px; border-radius
+	:4px; border:1px solid #d4d4d4;
+	margin-bottom: 0;}
+.woocommerce-page .content-area {background:#e6e6e6}
+p.form-row-first, p.form-row-last{width:100%}
+.thong-tin-du-an .label{font-weight:bold}
+.blog-archive .post-item {padding-bottom:0}
+.blog-archive .post-item .post-title:hover{color:#03a9f4}
+.blog-single .entry-content h2{font-size:18px}
+.blog-archive .post-item .post-title{    margin-bottom: 10px;
+	font-size: 17px;}
+.blog-archive .archive-page-header{padding:20px;}
+.blog-archive .row .large-12{margin-bottom:20px; margin-top:20px; background: white;
+	border-radius: 4px;
+	border: 1px solid #dedede;}
+.bai-viet-lien-quan ul li .box-text h4 a:hover{color:#03a9f4}
+.bai-viet-lien-quan ul li{margin-bottom:0; display:inline-block; width:25%; float:left; list-style:none; padding-left:5px; padding-right:5px}
+.bai-viet-lien-quan ul li .box-text{padding-bottom:0}
+.bai-viet-lien-quan ul{margin-bottom:0; display:inline-block; width:100%;}
+.bai-viet-lien-quan h3{margin-top:0px; color:#21428a; font-size:23px}
+.woof_list label{margin-bottom:0 !important; font-weight:normal; padding-top:2px;padding-bottom:0}.woof_list_checkbox li div {
+	margin-top: 0;
+}
+.icheckbox_flat-blue, .iradio_flat-blue{border: 1px solid #d8d8d8;
+	border-radius: 4px; background:none}.page-title-inner{   
+		padding-top: 10px;
+		padding-bottom: 10px;}
+.archive .product-small.box{border: 1px solid #e6e6e6;}
+.archive .products{padding:15px !important}
+.archive .product-small.col{padding:0}
+.archive .badge-container{display:none}
+.archive .shop-page-title{margin-bottom:5px}
+.archive .shop-container{    background: white;
+	padding: 0 10px;
+	border-radius: 4px;
+	border: 1px solid #dedede;}
+.archive #main{background:#e6e6e6}
+.woof_container_inner h4{color: #21428a}
+.archive #shop-sidebar{ background: white;
+	padding: 10px;
+	border-radius: 4px;
+	border: 1px solid #dedede;}
+.related .product-section-title{margin-left: 0;
+	letter-spacing: 0;
+	text-transform: none;
+	font-size: 22px;
+	color: #21428a;}
+.related .flickity-slider .product-small.box{border: 1px solid #e6e6e6;}
+.related .badge-container{display:none}
+.woocommerce-tabs .tabs li a:before{display:none}
+.woocommerce-tabs .tabs li:first-child{border-left:none}
+.woocommerce-tabs .tabs{margin-top:0 !important}
+.woocommerce-tabs{border: 1px solid #e6e6e6 !important;}
+.single-product .shop-container, .single-product #wrapper {
+	background: #e6e6e6;
+}.product-main .content-row {background:white;padding: 15px 0;
+
+}.product-main{padding: 20px 0;}
+.footer-section .col.medium-3{padding-bottom:0}.footer-secondary {
+	padding: 0;
+}.absolute-footer{font-size:13px}
+.product-gallery-slider img{border: 1px solid #ececec}
+.back-to-top{background:#03a9f4 !important; border:none !important; color:white !important}
+.searchform .button.icon {
+	margin: 0;
+	height: 34px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}.TextCaptions {
+	padding: 5px !important;
+}
+.list-post-1 .post-item .post-title{font-size:14px; font-weight:normal;}
+.list-post-1 .post-item .box-text{padding: 0;     padding-bottom: 7px;
+	padding-top: 7px;}.box-blog-post .is-divider{display:none}
+.list-post-1 .post-item{padding: 0 15px;
+	border-bottom: 1px dashed #e6e6e6;
+	background-image: url(../../uploads/2019/06/dot.jpg);
+	background-repeat: no-repeat;
+	background-position-y: 14px;
+	background-position-x: 10px;
+	padding-left: 26px;}
+.xuat-xu, .chat-lieu, .bao-hanh{display:block}
+.thong-tin-co-ban{line-height: 29px;}
+.list-du-an .post-item .box-text{padding-bottom:0}
+.list-du-an{background: white;
+	margin: 0 !important;
+	padding-top: 20px;border: 1px solid #d8d8d8;}
+.sp-noi-bat-section .flickity-prev-next-button svg, .du-an-section .flickity-prev-next-button svg{
+	border-color: currentColor;
+	fill: white !important;
+	background: #03a9f4;
+	height: 58px;
+	width: 30px;color: white;
+}
+.slider-nav-outside .flickity-prev-next-button.previous svg{border-top-right-radius:10px; border-bottom-right-radius:10px}
+.slider-nav-outside .flickity-prev-next-button.next svg{border-top-left-radius:10px; border-bottom-left-radius:10px}
+.slider-nav-outside .flickity-prev-next-button.next{left:98%} .slider-nav-outside .flickity-prev-next-button.previous{right:98%}
+.sp-noi-bat-section .slider-nav-push:not(.slider-nav-reveal) .flickity-prev-next-button, .du-an-section .slider-nav-push:not(.slider-nav-reveal) .flickity-prev-next-button{    margin-top: 0%;}
+.box.list-sp .image-cover img{}
+.box.list-sp .product-title a{    margin-bottom: 10px;
+	font-size: 15px;
+	color: #3a3a3a !important;
+	font-weight: bold;}
+.list-sp .badge-container{display:none}
+.list-sp{     border: 1px solid #e6e6e6;   background: white;
+	margin: 0 !important;}
+.tagged_as a, .posted_in a{font-weight:normal}
+.thong-tin-co-ban .label, .thuong-hieu, .tagged_as, .posted_in{font-weight:bold}
+.pwb-single-product-brands{display:inline-block}
+.ux-logo-link img{    border: 1px solid #21428a; background:white; margin-right:20px !important}
+.slider-section .large-12{padding-bottom:0}
+.ux-logo-link{padding:0 !important}
+.list-post-1{padding:0;   margin-left: 0px !important;
+	margin-right: 0 !important;    background: white;}
+.slider-section .tieu-de{    background: #21428a;
+	padding: 5px 15px;
+	text-transform: none;
+	font-size: 18px;
+	color: white;}
+.list-post-1 .post-item .post-title:hover{color:#03a9f4}
+.list-post-1 .post-item:last-child{border-bottom:none}
+.slider-nav-light .flickity-prev-next-button svg{    background: #0000007a;
+	border-radius: 5px;}
+.TextCaptions .item:last-child{border-right:none !important}
+.flickity-viewport .flickity-slider .medium-4.is-nav-selected{color:#03a9f4}
+.TextCaptions .item{border-right: 1px solid #e6e6e6 !important; font-size:12px}
+.flickity-viewport .flickity-slider .medium-4{flex-basis:20%; max-width:20%}
+.nav li:last-child{ border-right: 1px solid #2951a7}
+.nav li:first-child {border-left: 1px solid #18377b;
+}
+.header-main .nav > li > a{    display: block;
+	text-align: center;
+	border-right: 1px solid #18377b;
+	border-left: 1px solid #2951a7;}
+.menu-item img._mi{    width: 30px;
+	display: block !important;
+	margin-right: 0;
+	margin: 0 auto;
+	margin-bottom: 6px;}.nav>li>a {
+		padding: 8px 0;}
+.header-nav li{margin:0}
+.header-nav li a{padding-left:12px; padding-right:12px;     font-size: 13px;}
+.header-nav li a:hover{background:#03a9f4}
+.box.product-small .price del span, .box.product-small .price{color:gray; font-size:14px}
+.box.product-small .price ins span{color:red; font-size:17px}
+.hdevvn-show-cats{
+	border: none !important;
+}
+span.hdevvn-show-cats li{
+	display: block;
+	width: auto;
+	float: left;
+	margin: 0 8px;
+}
+.tabbed-content .nav li:last-child{border-right:none}
+.tabbed-content .nav-tabs>li>a{    border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	background-color: rgb(255, 255, 255);    padding: 11px 15px;border-right:1px solid #e6e6e6}
+.xem-them-sp a{text-decoration: underline;}
+.xem-them-sp a:after{content: '';
+	width: 0;
+	right: 0;
+	border-top: 5px solid transparent;
+	border-left: 5px solid #337ab7;
+	border-bottom: 5px solid transparent;
+	display: inline-block;
+	vertical-align: middle;
+	margin: -1px 0 0 5px;}
+.category-section .list-sp .box-text{padding-left:5px; padding-right:5px}
+.list-sp .product-small .box-text{padding-left:5px; padding-right:5px}
+.category-section .large-12{padding-bottom:20px}
+.banner-section{padding-bottom:20px}
+.xem-them-sp{text-align: center;
+	background: white;
+	line-height: 50px;
+	border: 1px solid #d8d8d8;
+	border-top: none;
+}
+.tabbed-content .nav-tabs > li.active > a{background: #21428a;
+	border: none;padding: 11px 15px;color: white;}.tabbed-content .nav-tabs>li {margin: 0;
+		margin-bottom: 0px;
+}
+.tabbed-content .nav-tabs>li:first-child{border-left:none}
+.tabbed-content{border: 1px solid #d8d8d8;}
+.category-section .list-sp{border-top: 1px solid #e6e6e6 !important;
+	border-right: 1px solid #e6e6e6 !important;
+	border: 0;}
+.nav-tabs+.tab-panels{border:none}
+span.hdevvn-show-cats li a{
+	font-size: 11px;
+}.tabbed-content .nav{background:white;}.nav-tabs+.tab-panels {
+	padding: 0px;
+}
+#breadcrumbs{    margin-bottom: 10px;}
+.entry-header-text {
+	padding: 0;
+}#comments{display:none}
+.blog-single h1.entry-title{ margin-bottom:0;   font-weight: normal;
+	color: #03a9f4;}
+.blog-single .entry-category, .is-divider {display:none}
+.blog-single .article-inner{background: white;
+	padding: 20px;
+	border-radius: 4px;
+	border: 1px solid gainsboro;}
+.blog-single {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background: #e6e6e6;
+}
+.blog-single .large-12{padding-bottom:0}.post {
+	margin: 0 0 10px;
+}
+@media only screen and (max-width: 48em) {
+
+	.off-canvas-left.mfp-ready .mfp-content{background: #21428a;}.off-canvas:not(.off-canvas-center) .nav-vertical li>a {    padding-left: 13px;
+		padding-top: 9px;
+		padding-bottom: 9px;
+		color: white;
+		text-transform: none;
+		font-size: 15px;
+		letter-spacing: 0;
+	}.menu-item img._mi{margin-right:10px; display:inline-block !important}
+	.flickity-viewport .flickity-slider .medium-4{flex-basis:33.33%; max-width:33.33%; font-size:10px}
+	.single-product .product-info{padding-left:15px; padding-top:15px}
+	.bai-viet-lien-quan ul li{width:50%}.bai-viet-lien-quan ul li .box-image img{height:100px}.bai-viet-lien-quan ul li .box-text {
+		padding-bottom: 10px;
+		padding-top: 5px;
+		font-size: 12px;
+	}.blog-archive .post-item{flex-basis:50%; max-width:50%}.blog-archive .post-item .post-title {
+		margin-bottom: 0px;
+		font-size: 13px;
+	}
+	.blog-archive .post-item .from_the_blog_excerpt {display:none}
+	.flickity-prev-next-button.previous{left:-4% !important}
+}

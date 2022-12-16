@@ -1,0 +1,308 @@
+Uri: https://ghevanphong.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://ghevanphong.webtudong8giay.com/danh-muc-san-pham/ghe-giam-doc/
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\danh-muc-san-pham\ghe-giam-doc\index.htm
+Content Type: text/html
+
+Uri: https://ghevanphong.webtudong8giay.com/danh-muc-san-pham/ghe-nhan-vien/
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\danh-muc-san-pham\ghe-nhan-vien\index.htm
+Content Type: text/html
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.13.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.13.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\menu-icons\css\extra.min-1.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/css/styles-frontend.min.css?ver=2.2.5
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\css\styles-frontend.min.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/css/styles-frontend.min.css?ver=2.2.6
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\css\styles-frontend.min-1.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/js/functions-frontend.min.js?ver=2.2.5
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\js\functions-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/js/functions-frontend.min.js?ver=2.2.6
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\js\functions-frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\css\front.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/delete.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\delete.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/magnifying-glass.svg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\magnifying-glass.svg
+Content Type: image/svg+xml
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/minus2.svg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\minus2.svg
+Content Type: image/svg+xml
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/plus2.svg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\plus2.svg
+Content Type: image/svg+xml
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.jquery.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.min.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.min.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\front.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\checkbox.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\mselect.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\radio.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\select.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/icheck.min.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\icheck.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/skins/flat/blue.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\skins\flat\blue.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/skins/flat/blue.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\skins\flat\blue.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/icheck/skins/flat/blue@2x.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\icheck\skins\flat\blue@2x.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/tooltip/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-noir.min.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\tooltip\css\plugins\tooltipster\sideTip\themes\tooltipster-sideTip-noir.min.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/tooltip/css/tooltipster.bundle.min.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\tooltip\css\tooltipster.bundle.min.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/tooltip/js/tooltipster.bundle.min.js?ver=1.3.0
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\tooltip\js\tooltipster.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/ban-van-phong-01.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\ban-van-phong-01.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/dot.jpg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\dot.jpg
+Content Type: image/jpeg
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/ghe-cafe-icon-01.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\ghe-cafe-icon-01.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/ghe-giam-doc-icon-01.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\ghe-giam-doc-icon-01.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/ghe-hoi-truong-icon-01.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\ghe-hoi-truong-icon-01.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/ghe-nhan-vien-icon-01.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\ghe-nhan-vien-icon-01.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_5132logo-copy.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_5132logo-copy.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_hplogo-copy.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_hplogo-copy.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_labelfinal300z-copy.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_labelfinal300z-copy.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_logo-copy.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_logo-copy.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_logolufa-copy.jpg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_logolufa-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_logotai-xuong-copy.jpg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_logotai-xuong-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_l_1102174860_the-city-logo300-copy.jpg
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_l_1102174860_the-city-logo300-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_manager.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_manager.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/06/mcith_160x60_tdhxixowzgkgsq8xgjjwovgyu5lb2ykgniwx7fdq-copy.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\06\mcith_160x60_tdhxixowzgkgsq8xgjjwovgyu5lb2ykgniwx7fdq-copy.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-content/uploads/2019/07/logo1.png
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-content\uploads\2019\07\logo1.png
+Content Type: image/png
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fghevanphong.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://ghevanphong.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fghevanphong.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://ghevanphong.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\ghevanphong.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
